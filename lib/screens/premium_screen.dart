@@ -120,7 +120,7 @@ class PremiumScreen extends StatelessWidget {
                     ),
                   ),
                   child: const Text(
-                    'Buy Premium for ₹149 (INR) / \$2 (USD)',
+                    'Buy Premium for ₹200 (INR) / \$2.28 (USD)',
                     style: TextStyle(
                         color: Colors.white, fontSize: 16, letterSpacing: 1.2),
                     textAlign: TextAlign.center,
